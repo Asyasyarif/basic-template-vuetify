@@ -1,4 +1,4 @@
-# projekt-wlan-admin
+# Basic Tempate Vuetify
 
 ## Project setup
 ```
